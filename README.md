@@ -20,3 +20,6 @@ lio-sam 建图跟rviz界面:
 
 查看pcd图：
  ``` pcl_viewer xxx.pcd ``` 
+
+演示视频：
+``` https://www.bilibili.com/video/BV1JKS2YFE1h/``` 
